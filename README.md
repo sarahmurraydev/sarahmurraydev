@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning the benefits and beauty of kotlin and trying to solve [Advent Of Code 2021](https://adventofcode.com/2021) 😅 
 - 🤓 My favorite side project I've built so far has been: https://mosaic-cover-photo-maker.vercel.app/ 
 - 📫 You can reach me at [sarahmurraydev@gmail.com](mailto:sarahmurraydev@gmail.com)
-
+- 💻 I have experience working with: <br/>
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
